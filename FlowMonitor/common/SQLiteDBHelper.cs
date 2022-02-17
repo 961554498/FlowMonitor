@@ -116,7 +116,6 @@ namespace onewater.flowmonitor.common
                     return data;
                 }
             }
-
         }
         /// <summary> 
         /// 执行一个查询语句，返回查询结果的第一行第一列 

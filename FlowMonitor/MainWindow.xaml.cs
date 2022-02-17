@@ -136,7 +136,7 @@ namespace onewater
         /// <param name="id"></param>
         private void ShowWindow(int id)
         {
-            if (windows[id] == null)
+            if (windows[id] != null)
             {
                 switch (id)
                 {
